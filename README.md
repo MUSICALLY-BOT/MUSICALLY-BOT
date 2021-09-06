@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
+<h1 align="center"><img src="./assets/d9cac0422f1406b5e303b4be0837c187-modified (1).png" width="30px"> Discord Music Bot <img src="./assets/d9cac0422f1406b5e303b4be0837c187-modified (1).png" width="30px"></h1>
 <p align="center">Thanks for 25k Views with 500 subs!</p>
 
 ## ✨Latest Updates✨
